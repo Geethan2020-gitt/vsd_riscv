@@ -14,3 +14,4 @@ Install leafpad editor
 sudo apt install leafpad
 ```
 Now we need to write a program in c for sum of 1 to n numbers, and save the file as "sum1ton.c"
+![Image](https://github.com/user-attachments/assets/08c695df-9a5e-492d-9fd3-a8b24552dd6d)
