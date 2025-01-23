@@ -49,7 +49,7 @@ Here if we calculate the number of instructions, we get the total instructions a
 It is calculated as 
 ``` 
 101c0 - 10184 = 3c
-3c/4 = b  => 15
+3c/4 = f  => 15
 ```
 Now similarly we need to execute the code for ``` Ofast ``` command
 
@@ -57,3 +57,9 @@ The input is shown as :
 ![Ofast_input](https://github.com/user-attachments/assets/540e85aa-e6cc-47ef-bdf0-20f368c8fa88)
 
 The output of the ``` Ofast ``` command is :
+![Image](https://github.com/user-attachments/assets/b4d44d6d-97a7-4551-bed0-1900a4f662ac)
+gain if we calculate the number of instructions , we get the instructions as 11.
+It is calculated as 
+``` 
+100e0 - 100b0 = 30
+30/4 = c  => 12
