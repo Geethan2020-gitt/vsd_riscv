@@ -44,3 +44,13 @@ Now the file has been saved "sum1ton.o"
 In the new tab we need to give the command ``` riscv64-unknown-elf-objdump -d sum1ton.o | less ```
 
 Now the assembly language code for ```O1``` is :
+![Image](https://github.com/user-attachments/assets/96c0a146-d68b-4e02-9208-d8f83ffc93dc)
+Here if we calculate the number of instructions, we get the total instructions as 11.
+It is calculated as 
+``` 
+101c0 - 10184 = 3c
+3c/4 = b  => 15
+```
+Now similarly we need to execute the code for ``` Ofast ``` command
+
+The input is shown as :
