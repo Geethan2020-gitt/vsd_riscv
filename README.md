@@ -22,3 +22,4 @@ gcc sum1ton.c
 ./a.out
 ```
 The output of the c code is :
+![Image](https://github.com/user-attachments/assets/8383fcbe-0d85-45f3-8aad-e5d5825409e9)
