@@ -54,3 +54,6 @@ It is calculated as
 Now similarly we need to execute the code for ``` Ofast ``` command
 
 The input is shown as :
+![Ofast_input](https://github.com/user-attachments/assets/540e85aa-e6cc-47ef-bdf0-20f368c8fa88)
+
+The output of the ``` Ofast ``` command is :
