@@ -31,3 +31,10 @@ We can view the sum code using the following command :
 cat sum1ton.c
 ```
 The terminal output of the above the commad :
+
+![Image](https://github.com/user-attachments/assets/9441bbd1-6e1e-4d7f-9a7e-6e3768e7ac39)
+
+For compiling the above code in RISC-V we use the command :
+```
+riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c
+```
